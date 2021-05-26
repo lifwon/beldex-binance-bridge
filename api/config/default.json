@@ -6,7 +6,7 @@
     "network": "testnet",
     "symbol": "BDX-7BA",
     "depositAddress": "0x53fDBfdFa650c56AE78C20bd12574CBa1Af87AFa",
-    "totalSupply": 1000000
+    "totalSupply": 2000000
   },
   "database": {
     "host": "localhost",
