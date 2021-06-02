@@ -29,6 +29,7 @@ class Swap extends Component {
     unconfirmed: [],
     walletConnBin : false,
     walletConnMeta : false
+    
   };
   componentWillMount() {
     this.onInfoUpdated();
